@@ -1,0 +1,15 @@
+{
+  "LoginData": {
+    "Username1": "DemoUserName1",
+    "Password1": "DemoPassword1",
+    "Username2": "DemoUserName2",
+    "Password2": "DemoPassword2"
+  },
+
+  "Steps": [ "Given", "When", "And", "Then" ],
+
+  "bool": {
+    "true": true,
+    "false": false
+  }
+}

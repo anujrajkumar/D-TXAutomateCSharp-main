@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "project": {
+      "key": "TES"
+    },
+    "summary": "REST ye merry gentlemen. Environment Test Automation",
+    "description": "Creating of an issue using project keys and issue type names using the REST API",
+    "issuetype": {
+      "name": "Bug"
+    },
+    "labels": [
+      "Automation"
+    ],
+    "environment": "QA",
+    "priority": {
+      "name": "High"
+    }
+
+  }
+}
